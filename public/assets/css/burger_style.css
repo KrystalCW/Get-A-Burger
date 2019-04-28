@@ -1,0 +1,26 @@
+body{
+    background-image: url("../images/pub.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: #d4901e;
+    text-align: center;
+    padding: 20px;
+}
+
+h2, li, label, .form-group {
+    color: white;
+    /* background-color: #a5200c */
+}
+
+.main-content {
+    background-color: #a5200c;
+    padding: 20px;
+    opacity: 0.85;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
